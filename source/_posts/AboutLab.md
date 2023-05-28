@@ -1,5 +1,6 @@
 ---
 title: 关于实验室
+cover: /img/start_logo.jpg
 ---
 
 
