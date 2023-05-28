@@ -4,7 +4,7 @@ title: 关于我
 
 
 
-<font face="黑体" color=blue size=5>个人信息</font>
+<font face="黑体" color=blue size=4>个人信息</font>
 
 姓名：朱明辉
 
