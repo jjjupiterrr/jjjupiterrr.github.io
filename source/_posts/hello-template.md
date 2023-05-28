@@ -1,89 +1,35 @@
 ---
-title: Hexo Template
+title: 关于我
 ---
 
-> A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
 
-[Demo](https://mmdjiji.github.io/hexo-template) | [Official Website](https://hexo.io) | [Documentation](https://hexo.io/docs/) | [GitHub](https://github.com/mmdjiji/hexo-template)
 
-## CI/CD
+<center><font face="黑体" color=blue size=5>个人信息</font></center>
 
-This repository uses GitHub Actions for CI/CD. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is https://mmdjiji.github.io/hexo-template)
+姓名：朱明辉
 
-## !!! Attention !!!
+学校：重庆大学
 
-There are two lines to modify in `_config.yml`:
+学院：计算机学院
 
-1. (At line 16) Set your site url here. For example, if you use GitHub Page, set url as `https://username.github.io/project`:
-```yml
-url: https://jiji.pro/hexo-template
-```
+导师：陈超教授、李瑞远副教授
 
-2. (At line 107) Set your project name here, if your project name is `username` or `username.github.io`, just remove it at the end of `_config.yml`:
-```yml
-root: /hexo-template
-```
+github：https://github.com/jjjupiterrr
 
-**If you would not like to do so, it cannot work correctly.**
+<center><font face="黑体" color=blue size=5>教育背景</font></center>
 
-## Hexo Features
+2023.09 -- 至今          重庆大学  硕士  计算机技术
 
-- Blazing fast generating
-- Support for GitHub Flavored Markdown and most Octopress plugins
-- One-command deploy to GitHub Pages, Heroku, etc.
-- Powerful API for limitless extensibility
-- Hundreds of [themes](https://hexo.io/themes/) & [plugins](https://hexo.io/plugins/)
+2017.09 -- 2021.06	江苏大学  本科  机械电子工程
 
-## Commands
+<center><font face="黑体" color=blue size=5>研究工作</font></center>
 
-**Install Hexo**
+暂无
 
-``` bash
-$ npm install hexo-cli -g
-```
+<center><font face="黑体" color=blue size=5>参与项目</font></center>
 
-Install with [brew](https://brew.sh/) on macOS and Linux:
+暂无
 
-```bash
-$ brew install hexo
-```
+<center><font face="黑体" color=blue size=5>获得荣誉</font></center>
 
-**Setup your blog**
-
-``` bash
-$ hexo init blog
-$ cd blog
-```
-
-**Start the server**
-
-``` bash
-$ hexo server
-```
-
-**Create a new post**
-
-``` bash
-$ hexo new "Hello Hexo"
-```
-
-**Generate static files**
-
-``` bash
-$ hexo generate
-```
-
-## More Information
-
-- Read the [documentation](https://hexo.io/)
-- Visit the [Awesome Hexo](https://github.com/hexojs/awesome-hexo) list
-- Find solutions in [troubleshooting](https://hexo.io/docs/troubleshooting.html)
-- Join discussion on [Google Group](https://groups.google.com/group/hexo), [Discord](https://discord.gg/teM2Anj), [Gitter](https://gitter.im/hexojs/hexo) or [Telegram](https://t.me/hexojs)
-- See the [plugin list](https://hexo.io/plugins/) and the [theme list](https://hexo.io/themes/) on wiki
-- Follow [@hexojs](https://twitter.com/hexojs) for latest news
-
-## License
-
-Follows [hexojs/hexo](https://github.com/hexojs/hexo) , use [MIT License](LICENSE).
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhexojs%2Fhexo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhexojs%2Fhexo?ref=badge_large)
+暂无
