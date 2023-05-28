@@ -33,3 +33,25 @@ github：https://github.com/jjjupiterrr
 <font face="黑体" color=blue size=4>获得荣誉</font>
 
 暂无
+
+<font face="黑体" color=blue size=4>伙伴/合作</font>
+
+[李瑞远]: http://www.kangry.net/blog/ruiyuanli
+
+，Chongqing University
+
+[李政]: https://lizhzz.github.io
+
+，Chongqing University
+
+[孙杨洋]: https://yangysun.github.io
+
+，Chongqing University
+
+[何翔]: https://cquhx.github.io
+
+，Chongqing University
+
+[陈泽超]: https://blog.ackth.cc/about
+
+，Chongqing University
