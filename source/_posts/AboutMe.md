@@ -12,7 +12,7 @@ title: 关于我
 
 学院：计算机学院
 
-导师：陈超教授、李瑞远副教授
+导师：李瑞远副教授
 
 github：https://github.com/jjjupiterrr
 
